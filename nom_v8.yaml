@@ -1,0 +1,7 @@
+path: './'
+train: 'origin_thanh_data_aug/images/'
+# val: 'data/images/val'
+val: 'data/images/val'
+# class names
+names:
+  0: 'nom'

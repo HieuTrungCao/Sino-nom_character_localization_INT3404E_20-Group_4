@@ -1,0 +1,7 @@
+path: './'
+train: 'augmented_data/train/images'
+# val: 'data/images/val'
+val: 'extra_data/test_grayscale_stretched/images'
+# class names
+names:
+  0: 'nom'
