@@ -1,5 +1,5 @@
 # Bài tập lớn: Khoanh vùng kí tự Hán Nôm
-Lớp: INT3404E 20 - Xử lý ảnh
+Lớp: INT3404E 20 - Xử lý ảnh\
 Nhóm: 4
 ## Thông tin các thành viên nhóm
 - [Cao Trung Hiếu - 21021490](https://github.com/HieuTrungCao)
