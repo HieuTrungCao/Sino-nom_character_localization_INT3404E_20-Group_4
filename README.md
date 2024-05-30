@@ -30,6 +30,7 @@ Repository này cung cấp mã nguồn để huấn luyện và chạy các mô 
 └── nom_v8_test.yaml # Config test YOLOv8n
 ```
 ## Hướng dẫn chạy
+- Tải tập dữ liệu của nhóm tại [đây](https://drive.google.com/drive/folders/1pzujLSmMjvtfSpkZuJkRt49er0YXEFQx?usp=sharing).
 - Mã nguồn trong repository đều ở dạng Jupyter Notebook. Vì vậy, cách tốt nhất là upload notebook lên [Google Colab](https://colab.research.google.com) và chạy lần lượt từng cell.
 - Để chạy `mmdetection_models/inference.py`, đầu tiên chạy file `mmdetection_models/install_requirements.sh` để cài đặt `mmdetection`. Sau đó chạy file `inference.py` với cú pháp 
     ```
